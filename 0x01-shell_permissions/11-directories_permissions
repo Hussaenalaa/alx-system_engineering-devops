@@ -1,2 +1,2 @@
-#!/bin/bash
-chmo -R +X .
+#!/git/bash
+chmod -R +X .
